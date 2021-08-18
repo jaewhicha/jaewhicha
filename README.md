@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jaewhicha
 - 👀 I’m interested in anything new or challenging
 - 🌱 I’m currently learning AWS
-- 💞️ I’m looking to collaborate on non-profit or NGO work
+- 💞️ I’m looking to collaborate on open source or non-profit or NGO work
 - 📫 How to reach me james.jay.w@gmail.com
 
 <!---
